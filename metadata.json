@@ -1,0 +1,6 @@
+{
+  "name": "Thử Tài Kéo Thả – Nối Ý",
+  "description": "Trò chơi học tập tương tác kéo thả nối ý và thả câu trả lời vào hình ảnh dành cho giáo viên và học sinh tiểu học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
